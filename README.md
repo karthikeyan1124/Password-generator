@@ -26,7 +26,8 @@ cd Password-generator
 ## ▶️ Usage
 
 Run the script to generate a password:
-![image](https://github.com/user-attachments/assets/2e7c0970-9633-4578-be7c-9617aac6bffd)
+![image (4)](https://github.com/user-attachments/assets/ce7717b9-22e5-40b2-85b8-ff10733c48a0)
+
 
 
 ```bash
